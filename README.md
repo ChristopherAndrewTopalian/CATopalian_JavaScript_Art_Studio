@@ -7,6 +7,8 @@ A JavaScript Art Studio where users can load, layer, and transform images on a s
 
 Video: https://www.youtube.com/watch?v=uS9HeW1YxZg
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Art_Studio/CATopalian_JavaScript_Art_Studio.html  
+
 ---
 
 The **CATopalian JavaScript Art Studio** is an interactive web application built entirely with JavaScript. It allows you to **load, arrange, and transform multiple images** to create unique digital compositions.
