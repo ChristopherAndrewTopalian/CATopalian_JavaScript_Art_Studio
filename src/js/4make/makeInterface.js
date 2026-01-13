@@ -2,6 +2,24 @@
 
 function makeInterface()
 {
+    let theTitle = ce('a');
+    theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Art_Studio';
+    theTitle.target = '_blank';
+    theTitle.textContent = 'CATopalian JavaScript Art Studio';
+    theTitle.style.position = 'absolute';
+    theTitle.style.right = 12 + 'px';
+    theTitle.style.bottom = 6 + 'px';
+    theTitle.style.fontFamily = 'Arial';
+    theTitle.style.fontSize = '15px';
+    theTitle.style.fontWeight = 'bold';
+    theTitle.style.textAlign = 'right';
+    theTitle.style.lineHeight = 15 + 'px';
+    theTitle.style.textDecoration = 'none';
+    theTitle.style.color = 'rgb(0, 200, 200)';
+    theTitle.style.textShadow = '0px 1px 1px rgb(0, 0, 0)';
+    theTitle.style.zIndex = 10000;
+    ba(theTitle);
+
     // we make a mainDiv container
     let mainDiv = ce('div');
     mainDiv.id = 'mainDiv';
@@ -256,7 +274,7 @@ function makeInterface()
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting

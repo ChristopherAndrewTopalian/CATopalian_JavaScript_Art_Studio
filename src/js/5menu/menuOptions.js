@@ -1229,7 +1229,7 @@ function menuOptions(whichId)
     //-//
 
     let credits = ce('div');
-    credits.textContent = 'All Rights Reserved (c) Copyright 2000-2025';
+    credits.textContent = 'All Rights Reserved (c) Copyright 2000-2026';
     credits.style.fontSize = '13px';
     credits.style.color = 'rgb(120, 120, 120)';
     thePanel.append(credits);
@@ -1238,7 +1238,7 @@ function menuOptions(whichId)
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting
